@@ -1,0 +1,73 @@
+.inconuser {
+  width: 60px;
+  height: 60px;
+  float: right;
+}
+
+.Text {
+  width: auto;
+  margin-left: 10px;
+}
+
+.Card {
+  width: 280px;
+  height: 290px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+
+}
+.Textt{
+  color: rgba(105, 107, 105, 0.979);
+}
+.cardFooter{
+margin-bottom: 20px;
+margin-left: 25%;
+width: 80px;
+display: inline-flex;
+justify-content: space-between;
+}
+.imgCard{
+  width: 30px;
+  height: 30px;
+}
+.divCard {
+  width:75% ;
+  margin-left:10%;
+  margin-top:50px; 
+  flex-wrap:wrap;
+  display: inline-flex;
+}
+
+.bttn {
+  float: right;
+  margin-left: 20px;
+}
+.btnhome{
+  margin-left: 35%;
+  margin-right: 20px;
+}
+
+.FormDiv {
+  width: 450px;
+  height: 600px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.divindex {
+  width: 100%;
+  height: 300px;
+  background-color: rgba(145, 189, 23, 0.466)
+}
+
+h3 {
+  text-align: center;
+  padding-top: 50px;
+  color: rgb(65, 151, 31)
+}
+
+h1 {
+  text-align: center;
+  padding-top: 100px;
+  color: rgb(65, 151, 31)
+}
